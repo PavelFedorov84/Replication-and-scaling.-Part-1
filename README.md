@@ -43,3 +43,13 @@ kubectl describe pv local-pv
 
 <img width="1032" height="489" alt="image" src="https://github.com/user-attachments/assets/dd4bb117-d345-485e-a236-8b28aff0dabb" />
 
+### Задание 3
+```
+nano sc.yaml
+minikube ssh "sudo mkdir -p /mnt/sc-data && sudo chmod 777 /mnt/sc-data"
+kubectl apply -f sc.yaml
+sleep 15
+kubectl get sc,pv,pvc,pods -l app=data-exchange-sc
+kubectl logs -l app=data-exchange-sc -c multitool --tail=3
+```
+<img width="968" height="283" alt="image" src="https://github.com/user-attachments/assets/cab449f9-e251-4c41-8bbc-a9b436168922" />
