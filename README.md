@@ -59,7 +59,7 @@ Slave-серверы получают обновления от Master и обр
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
 
-![Название скриншота][(ссылка на скриншот)](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.jpg)`
+'![Название скриншота][(ссылка на скриншот)](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.jpg)`
 
 
 
