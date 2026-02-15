@@ -29,11 +29,11 @@ Slave-серверы получают обновления от Master и обр
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 ![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.jpg)
-![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.3jpg)
-![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.1jpg)
-![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.2jpg)
-![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.4jpg)
-![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.5jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.3.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.1.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.2.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.4.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S2.5.jpg)
 
 ### Задание 3
 
