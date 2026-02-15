@@ -58,8 +58,15 @@ Slave-серверы получают обновления от Master и обр
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.jpg)
 
-'![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.jpg)`
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.1.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.2.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.3.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.4.jpg)
+![Название скриншота](https://github.com/PavelFedorov84/Replication-and-scaling.-Part-1/blob/main/img/S3.5.jpg)
+
+
 
 
 
